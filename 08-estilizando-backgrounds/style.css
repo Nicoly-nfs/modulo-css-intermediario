@@ -1,0 +1,38 @@
+p {
+    color: coral;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bg {
+    background-color: lightgreen;
+    background-image: url(./images/nina.png.jpeg);
+}
+
+/* .bg-image {
+    width: 513px;
+    height: 340pc;
+} */
+
+.bg-repeat {
+    background-repeat: no-repeat;
+    height: 1100px;
+}
+
+.bg-size-cover {
+    background-size: cover;
+    width: 768px;
+    height: 1024px;
+}
+
+.bg-fixed {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 1100px;
+}
+
+.bg-position {
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    height: 1100px;
+}

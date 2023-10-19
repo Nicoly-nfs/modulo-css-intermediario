@@ -1,0 +1,61 @@
+/* UM */
+
+p {
+    background-color: rgb(181, 135, 224);
+}
+
+.alinhado-esquerda {
+    text-align: left;
+}
+
+.alinhado-direita {
+    text-align: right;
+}
+
+.alinhado-centro {
+    text-align: center;
+}
+
+/* DOIS */
+.alinhado-justificado {
+    text-align: justify;
+}
+
+/* TRÊS */
+.maiusculo {
+    text-transform: uppercase;
+}
+
+.minusculo {
+    text-transform: lowercase;
+}
+
+.capitalizado {
+    text-transform: capitalize;
+}
+
+/* QUATRO */
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+.linha-sobreposta {
+    text-decoration: line-through;
+}
+
+.sem-text-decoration {
+    text-decoration: none;
+}
+
+/* CINCO */
+
+.altura-entre-linhas {
+    line-height: 30px;
+}
+
+/* SEIS */
+
+.sombra-de-texto {
+    text-shadow: 10px 10px 3px red;
+}

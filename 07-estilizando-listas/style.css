@@ -1,0 +1,21 @@
+/* ul {
+    list-style-type: square;
+} */
+
+ul {
+    list-style: square inside url(./imagem/icons8-coração-24.png);
+}
+
+ul li {
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+    background-color: blueviolet;
+}
+
+ol li {
+    border: 1px solid;
+    padding: 20px;
+    margin: 10px;
+    background-color: aqua;
+}
