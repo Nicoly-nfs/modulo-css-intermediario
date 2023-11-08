@@ -7,7 +7,7 @@ body {
     background-color: #69f0ae;
 }
 
-.cabecalho .logo {
+.logo {
     display: inline-block;
 }
 
@@ -39,4 +39,19 @@ main p {
 
 .image img {
     width: 100%;
+}
+
+@media (max-width: 550px) {
+    .cabecalho {
+        text-align: center;
+        background-color: #6365c9;
+    }
+
+    .cabecalho nav {
+        float: none;
+    }
+
+    .cabecalho nav li {
+        display: block;
+    }
 }
